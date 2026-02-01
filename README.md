@@ -7,10 +7,10 @@
 - **Язык**: Python 3.13
 - **Основные библиотеки**:
 
-requests - для HTTP-запросов
-BeautifulSoup4 - для парсинга HTML
-lxml - для быстрого разбора HTML
-phonenumbers - для валидации телефонных номеров
+- requests - для HTTP-запросов
+- BeautifulSoup4 - для парсинга HTML
+- lxml - для быстрого разбора HTML
+- phonenumbers - для валидации телефонных номеров
 
 ## Зависимости проекта
 
@@ -25,8 +25,7 @@ parser-python/
 ├── parser.py        
 ├── utils.py         
 ├── requirements.txt 
-└── README.md
-└── contacts.json       
+└── README.md       
  ```
  
 ## Инструкция по установке
@@ -45,7 +44,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-После активации в терминале в командной строке появится префикс (venv).:
+После активации в терминале в командной строке появится префикс (venv):
 
 ### 3. Установка зависимостей
 
@@ -55,12 +54,12 @@ pip install -r requirements.txt
 
 ## Запуск программы
 
-Использование: python main.py <URL>
-Пример: python main.py https://example.com
+- Использование: python main.py <URL>
+- Пример: python main.py https://example.com
 
 ## Выходные данные
 
-Результаты сохраняются в файл contacts.json в корневой папке проекта. 
+Результаты сохраняются в файл contacts.json в корневой папке проекта
 
 ## Ограничения
 
