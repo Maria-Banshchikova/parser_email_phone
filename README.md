@@ -7,10 +7,10 @@
 - **Язык**: Python 3.13
 - **Основные библиотеки**:
 
-- requests - для HTTP-запросов
-- BeautifulSoup4 - для парсинга HTML
-- lxml - для быстрого разбора HTML
-- phonenumbers - для валидации телефонных номеров
+requests - для HTTP-запросов\  
+BeautifulSoup4 - для парсинга HTML\  
+lxml - для быстрого разбора HTML\  
+phonenumbers - для валидации телефонных номеров\  
 
 ## Зависимости проекта
 
